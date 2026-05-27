@@ -18,8 +18,8 @@
 
 ## Структура
 .
-├── mapper_experiment_config.py          # основной файл запуска эксперимента
-├── mapper_node_stats.py                 # построение Mapper-графа и расчет статистик
-├── mapper_node_topics.py                # генерация промптов и импорт тем нод
-├── mapper_node_hover_kepler_native.py   # HTML-визуализация графа
-└── README.md
+─ mapper_experiment_config.py          # основной файл запуска эксперимента
+─ mapper_node_stats.py                 # построение Mapper-графа и расчет статистик
+─ mapper_node_topics.py                # генерация промптов и импорт тем нод
+─ mapper_node_hover_kepler_native.py   # HTML-визуализация графа
+─ README.md
