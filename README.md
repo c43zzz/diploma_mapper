@@ -21,5 +21,5 @@ mapper_experiment_config.py - основной файл запуска эксп�
 mapper_node_stats.py - построение Mapper-графа и расчет статистик  
 mapper_node_topics.py - генерация промптов и импорт тем нод  
 mapper_node_hover_kepler_native.py - HTML-визуализация графа  
-experiment_config.py - содержит гиперпараметры основных конфигураций, которые использовались
+experiment_config.py - содержит гиперпараметры основных конфигураций, которые использовались  
 README.md
